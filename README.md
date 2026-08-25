@@ -44,3 +44,4 @@ Aplikasi manajemen santri sederhana yang dibangun untuk mempelajari konsep **Rea
 ## 🗂️ Layout
 
 Seluruh halaman menggunakan **shared sidebar layout** via `<Layout />` yang di-render oleh route induk `/`. Sidebar boleh menggunakan komponen **shadcn `Sidebar`** dengan `SidebarProvider` + `SidebarInset`, dilengkapi tombol collapse (`SidebarTrigger`). atau boleh buat sidebar sendiri
+"# starter-router-assessment" 
