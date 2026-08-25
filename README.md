@@ -45,3 +45,4 @@ Aplikasi manajemen santri sederhana yang dibangun untuk mempelajari konsep **Rea
 
 Seluruh halaman menggunakan **shared sidebar layout** via `<Layout />` yang di-render oleh route induk `/`. Sidebar boleh menggunakan komponen **shadcn `Sidebar`** dengan `SidebarProvider` + `SidebarInset`, dilengkapi tombol collapse (`SidebarTrigger`). atau boleh buat sidebar sendiri
 "# starter-router-assessment" 
+"# starter-router-assessment"  git init git add . git commit -m "first commit" git branch -M main git remote add origin git@github.com:luthfianhar/starter-router-assessment.git git push -u origin main
