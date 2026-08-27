@@ -7,7 +7,7 @@ import SantriDetail from "../pages/SantriDetail";
 import About from "../pages/About";
 import NotFound from "../pages/NotFound";
 
-const router = createBrowserRouter([
+export const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
